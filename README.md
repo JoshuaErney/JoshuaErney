@@ -1,16 +1,22 @@
 ## Hi there 👋
 
-<!--
-**JoshuaErney/JoshuaErney** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🧰 Tools I Use
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+| Tool | Description |
+|------|-------------|
+| [Coolors](https://coolors.co/) | Fast color palette generator for picking and locking in schemes |
+| [Markdown Guide](https://www.markdownguide.org/) | Quick reference for Markdown syntax — useful beyond just READMEs |
+
+---
+
+## 📚 Learning Resources
+
+| Resource | Description |
+|----------|-------------|
+| [The Odin Project](https://www.theodinproject.com) | Project-based full-stack curriculum, great for building real things fast |
+| [javascript.info](https://javascript.info/) | The most thorough modern JavaScript reference I've found |
+| [Learn JavaScript Online](https://learnjavascript.online/) | Interactive JS lessons with instant feedback in the browser |
+| [MDN Web Docs — Learn](https://developer.mozilla.org/en-US/docs/Learn_web_development/Getting_started) | Mozilla's official getting-started path for web development |
+| [CSS-Tricks: Complete Guide to CSS Grid](https://css-tricks.com/complete-guide-css-grid-layout/) | The definitive visual reference for CSS Grid layout |
