@@ -8,6 +8,7 @@
 |------|-------------|
 | [Coolors](https://coolors.co/) | Fast color palette generator for picking and locking in schemes |
 | [Markdown Guide](https://www.markdownguide.org/) | Quick reference for Markdown syntax — useful beyond just READMEs |
+| [Placehold](https://placehold.co/) | A free placeholder image service for designers and developers|)
 
 ---
 
