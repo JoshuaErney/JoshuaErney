@@ -10,7 +10,7 @@
 | [Markdown Guide](https://www.markdownguide.org/) | Quick reference for Markdown syntax — useful beyond just READMEs |
 | [Placehold](https://placehold.co/) | A free placeholder image service for designers and developers|
 | [FeatherIcons](https://feathericons.com/) | A collection of clean, open-source SVG icons with adjustable size, stroke width, and colour |
-| [Tinify](https://tinypng.com/) | TinyPNG uses smart lossy compression techniques to reduce the file size of your WEBP, AVIF, JPEG and PNG files. |
+| [Tinify](https://tinypng.com/) | TinyPNG reduces the file size of your WEBP, AVIF, JPEG and PNG files. |
 
 ---
 
