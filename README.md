@@ -2,7 +2,7 @@
 
 ---
 
-## 🧰 Tools I Use
+## Tools I Use
 
 | Tool | Description |
 |------|-------------|
@@ -14,7 +14,7 @@
 
 ---
 
-## 📚 Learning Resources
+## Learning Resources
 
 | Resource | Description |
 |----------|-------------|
@@ -23,3 +23,11 @@
 | [Learn JavaScript Online](https://learnjavascript.online/) | Interactive JS lessons with instant feedback in the browser |
 | [MDN Web Docs — Learn](https://developer.mozilla.org/en-US/docs/Learn_web_development/Getting_started) | Mozilla's official getting-started path for web development |
 | [CSS-Tricks: Complete Guide to CSS Grid](https://css-tricks.com/complete-guide-css-grid-layout/) | The definitive visual reference for CSS Grid layout |
+| [ColorCode Youtube Channel](https://www.youtube.com/@ColorCode-io) | The definitive visual reference for CSS Grid layout |
+
+---
+
+## Individual Learning One-offs
+| Resource | Description |
+| -------- | ----------- |
+| [YouTube Video](https://www.youtube.com/watch?v=eiC58R16hb8) | JavaScript Event Loop Explaination by Lydia Hallie|
