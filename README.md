@@ -23,7 +23,7 @@
 | [Learn JavaScript Online](https://learnjavascript.online/) | Interactive JS lessons with instant feedback in the browser |
 | [MDN Web Docs — Learn](https://developer.mozilla.org/en-US/docs/Learn_web_development/Getting_started) | Mozilla's official getting-started path for web development |
 | [CSS-Tricks: Complete Guide to CSS Grid](https://css-tricks.com/complete-guide-css-grid-layout/) | The definitive visual reference for CSS Grid layout |
-| [ColorCode Youtube Channel](https://www.youtube.com/@ColorCode-io) | The definitive visual reference for CSS Grid layout |
+| [ColorCode Youtube Channel](https://www.youtube.com/@ColorCode-io) | "25 Things Javascript Developers Should Know but Probably Don’t" Series |
 
 ---
 
