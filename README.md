@@ -24,6 +24,7 @@
 | [MDN Web Docs — Learn](https://developer.mozilla.org/en-US/docs/Learn_web_development/Getting_started) | Mozilla's official getting-started path for web development |
 | [CSS-Tricks: Complete Guide to CSS Grid](https://css-tricks.com/complete-guide-css-grid-layout/) | The definitive visual reference for CSS Grid layout |
 | [ColorCode Youtube Channel](https://www.youtube.com/@ColorCode-io) | "25 Things Javascript Developers Should Know but Probably Don’t" Series |
+| [devOps Daily](https://devops-daily.com/) | 606+ simulators, quizzes, and hands-on exercises for engineers who prefer a terminal over a slide deck. |
 
 ---
 
