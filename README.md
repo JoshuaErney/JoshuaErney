@@ -14,6 +14,5 @@ Here are some ideas to get you started:
 -->
 
 # Favorite Definition:
----
 
 "Clear, accurate, and complete documentation serves as a reliable single source of truth that captures how processes work, verifies that they were executed correctly, and enables others to repeat or troubleshoot them—all while remaining easy for its intended audience to understand and use without ambiguity."
